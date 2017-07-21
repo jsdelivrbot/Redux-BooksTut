@@ -1,4 +1,6 @@
-# ReduxSimpleStarter
+# Redux-BooksTut
+
+Provided by udemy.com's Stephen Grider
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
