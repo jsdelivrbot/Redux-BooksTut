@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'Javascript: The Good Parts' },
-    { title: 'Eloquent Ruby' },
-    { title: 'The Two Towers' },
-    { title: 'Jurassic Park' },
+    { title: 'Javascript: The Good Parts', pages: 124 },
+    { title: 'Eloquent Ruby', pages: 55 },
+    { title: 'The Two Towers', pages: 643 },
+    { title: 'Jurassic Park', pages: 382 },
   ]
 }
